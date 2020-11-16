@@ -1,0 +1,5 @@
+1) Create Github Account
+2) Download Gitforwindows
+3) Download Vs code
+4) Create D:\dev\git folder
+5) git clone https://github.com/danbasilasp/games.git
